@@ -1,0 +1,1 @@
+# find-the-sum-of-digits-individual-terms-of-a-number-python
